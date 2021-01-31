@@ -1,0 +1,36 @@
+{
+  "name": "nentai.db",
+  "version": "0.0.7-pre",
+  "description": "Powerful JSON Database.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/2qke/Nentai.db"
+  },
+  "keywords": [
+    "tr",
+    "az",
+    "json",
+    "database",
+    "quick.db",
+    "lower.db",
+    "db",
+    "discord.js",
+    "discord-v8-api",
+    "json-parse",
+    "parse",
+    "turkish",
+    "object-db",
+    "object",
+    "push"
+  ],
+  "author": "2qke",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "fs-extra": "^9.0.1"
+  }
+}
